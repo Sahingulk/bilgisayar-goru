@@ -1,0 +1,42 @@
+[
+    {
+        "masa": "Masa_1",
+        "garson": "Garson_1",
+        "zaman": "2025-07-10 20:30:56"
+    },
+    {
+        "masa": "Masa_1",
+        "garson": "Garson_2",
+        "zaman": "2025-07-15 12:04:07"
+    },
+    {
+        "masa": "Masa_1",
+        "garson": "Garson_2",
+        "zaman": "2025-07-15 12:30:04"
+    },
+    {
+        "masa": "Masa_1",
+        "garson": "Garson_2",
+        "zaman": "2025-07-15 12:30:16"
+    },
+    {
+        "masa": "Masa_1",
+        "garson": "Garson_1",
+        "zaman": "2025-07-18 07:45:44"
+    },
+    {
+        "masa": "Masa_1",
+        "zaman": "2025-07-18 07:47:43",
+        "hesap_sifirla": true
+    },
+    {
+        "masa": "4",
+        "zaman": "2025-07-18 07:47:46",
+        "hesap_sifirla": true
+    },
+    {
+        "masa": "Masa_1",
+        "zaman": "2025-07-18 07:47:56",
+        "hesap_sifirla": true
+    }
+]
